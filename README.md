@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working on **A Super Cool React Project**
 - 🌱 Currently flexing my brain's muscles on **Data Structures**
-- 📝 I write about what I am learning at: **[Dev.to](https://dev.to/aditya278)** and ** [Medium](https://medium.com/@aditya.shukla278)
+- 📝 I write about what I am learning at: **[Dev.to](https://dev.to/aditya278)** and **[Medium](https://medium.com/@aditya.shukla278)**
 - 💬 Ask me about **MERN Stack, Unity3D, Astronomy, Space and Stars 🤩**
 - 📫 Reach me at: **aditya.sh278@gmail.com**
 - 😄 Pronouns: **He/Him 🙋‍♂️**
