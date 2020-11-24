@@ -10,7 +10,7 @@
 - 💬 Ask me about **MERN Stack, Unity3D, Astronomy, Space and Stars 🤩**
 - 📫 Reach me at: **aditya.sh278@gmail.com**
 - 😄 Pronouns: **He/Him 🙋‍♂️**
-- ⚡ Fun fact: Best way to kidnap me? Just buy me Italian Food 🍝 (Sushh! 🤫)
+- ⚡ Fun fact: Best way to kidnap me? Buy me Italian Food 🍝 (Sushh! 🤫)
 
 
 ### Blogs posts
