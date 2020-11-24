@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Best way to kidnap me? Buy me Italian Food 🍝 (Sushh! 🤫)
 
 
-### Blogs posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [The Difference Between Encoding, Encryption and Hashing](https://medium.com/swlh/the-difference-between-encoding-encryption-and-hashing-878c606a7aff)
