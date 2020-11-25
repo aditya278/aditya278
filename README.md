@@ -19,6 +19,7 @@
 - [The Difference Between Encoding, Encryption and Hashing](https://medium.com/swlh/the-difference-between-encoding-encryption-and-hashing-878c606a7aff)
 - [Everything You Need to Know About Event Loop in JavaScript](https://blog.usejournal.com/everything-you-need-to-know-about-event-loop-in-javascript-1f14f94e5ab6)
 - [Understanding and Implementing Password Hashing In NodeJs](https://dev.to/aditya278/understanding-and-implementing-password-hashing-in-nodejs-2m84)
+- [React Components Lifecycle Methods - WTH are they?](https://dev.to/aditya278/react-components-lifecycle-methods-wth-are-they-2lh5)
 <!-- BLOG-POST-LIST:END -->
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya278&show_icons=true&count_private=true&theme=default)
