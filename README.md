@@ -2,7 +2,6 @@
 ## I'm Aditya
 #### A Full Stack Developer (MERN), A Freelance Game Developer and A Nerd!!
 
-
   
 - 🔭 I’m currently working on **A Super Cool React Project**
 - 🌱 Currently flexing my brain's muscles on **Data Structures**
