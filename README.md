@@ -2,6 +2,7 @@
 ## I'm Aditya
 #### A Full Stack Developer (MERN), A Freelance Game Developer and A Nerd!!
 
+![Profile Visits](https://visitor-badge.laobi.icu/badge?page_id=aditya278.aditya278)
   
 - 🔭 I’m currently working on **A Super Cool React Project**
 - 🌱 Currently flexing my brain's muscles on **Data Structures**
