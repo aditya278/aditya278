@@ -1,13 +1,13 @@
 #### Hello World 👋
 ## I'm Aditya
-#### A Full Stack Developer (MERN), A Freelance Game Developer and A Nerd!!
+#### React | NodeJs | TypeScript | PostgreSQL | Game Dev
 
 ![Profile Visits](https://visitor-badge.laobi.icu/badge?page_id=aditya278.aditya278)
   
 - 🔭 I’m currently working on **A Super Cool React Project**
 - 🌱 Currently flexing my brain's muscles on **Data Structures**
 - 📝 I write about what I am learning at: **[Dev.to](https://dev.to/aditya278)** and **[Medium](https://medium.com/@aditya.shukla278)**
-- 💬 Ask me about **MERN Stack, Unity3D, Astronomy, Space and Stars 🤩**
+- 💬 Ask me about **JavaScript, Video Games, Astronomy, Space and Stars 🤩**
 - 📫 Reach me at: **aditya.sh278@gmail.com**
 - 😄 Pronouns: **He/Him 🙋‍♂️**
 - ⚡ Fun fact: Best way to kidnap me? Buy me Italian Food 🍝 (Sushh! 🤫)
